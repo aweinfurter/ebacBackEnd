@@ -1,0 +1,39 @@
+Início do dia:
+
+Despertador toca.
+Levantar da cama.
+Higiene pessoal:
+
+Chamar a função "escovarDentes()" para escovar os dentes.
+Chamar a função "tomarBanho()" para tomar banho.
+Café da manhã:
+
+Chamar a função "prepararCafeDaManha()" para preparar o café da manhã.
+Chamar a função "tomarCafeDaManha()" para tomar o café da manhã.
+Trabalho:
+
+Chamar a função "trabalhar()" para começar o trabalho.
+Almoço:
+
+Chamar a função "prepararAlmoco()" para preparar o almoço.
+Chamar a função "almocar()" para fazer a refeição.
+Retorno ao trabalho:
+
+Chamar a função "voltarAoTrabalho()" para continuar o trabalho.
+Academia:
+
+Chamar a função "irParaAcademia()" para ir à academia.
+Chamar a função "fazerExercicios()" para realizar os exercícios.
+Fim da tarde:
+
+Chamar a função "tomarBanho()" para tomar banho após a academia.
+Jantar:
+
+Chamar a função "prepararJantar()" para preparar o jantar.
+Chamar a função "jantar()" para fazer a refeição.
+Estudo:
+
+Chamar a função "estudar()" para dedicar tempo ao estudo.
+Hora de dormir:
+
+Chamar a função "irDormir()" para ir dormir e descansar.
